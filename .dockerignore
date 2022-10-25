@@ -1,0 +1,4 @@
+# En .dockerignore
+.venv
+.git
+.gitignore

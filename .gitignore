@@ -1,0 +1,5 @@
+# En .gitignore
+.venv
+db.sqlite3
+__pycache__/
+ch3-postgresql.code-workspace
